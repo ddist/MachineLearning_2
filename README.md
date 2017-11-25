@@ -1,6 +1,6 @@
 # Notebook Content
 
-### Vowel Classification
+### Dimensionality Reduction for Classification (Vowel Classification)
 - LDA and PCA dimensionality reduction
 - LDA, QDA and kNN classifiers
 - Naive Classifier (Posterior = Prior)
@@ -13,7 +13,7 @@
 - Naive Bayes
 - Linear SVM
 
-### Unbalaced Classes (Fraud transaction detection)
+### Unbalanced Classes (Fraud transaction detection)
 - Precision, recall, f1 score
 - ROC Curve
 - Undersampling
